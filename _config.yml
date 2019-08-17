@@ -9,16 +9,16 @@
 locale                   : "en-US"
 title                    : "Pablo Valenzuela-Casasempere"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Pablo Valenzuela C."
+description              : &description "Ph.D. student, Economics Department, University of British Columbia"
+url                      : https://pvalenzuelac.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "pvalenzuelac/pvalenzuelac.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+# future                   : true
+# read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @PValenzuelaC
 facebook:
   username               :
   app_id                 :
@@ -80,12 +80,12 @@ analytics:
 # Site Author
 author:
   name             : "Pablo Valenzuela-Casasempere"
-  avatar           : "pablo.png"
-  bio              : "First year Econ. Student @ VSE"
-  location         : "https://www.google.com/maps/place/Vancouver+School+of+Economics/@49.271064,-123.2526067,17z/data=!3m1!4b1!4m5!3m4!1s0x548672ba0b1ce455:0xf032626d2b44ba37!8m2!3d49.271064!4d-123.250418"
+  avatar           : "pablovalenzuela.png"
+  bio              : "First year Econ. Student @ UBC-VSE"
+  location         : "Vancouver, British Columbia"
   employer         :
   googlescholar    :
-  email            :
+  email            : "pdvalenzuela@uc.cl"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/pvalenzuelac"
+  github           : "pvalenzuelac"
   google_plus      :
   keybase          :
   instagram        :
@@ -304,3 +304,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-merlot
