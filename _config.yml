@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pablo Valenzuela-Casasempere"
+title                    : "Pablo Valenzuela Casasempere"
 title_separator          : "-"
-name                     : &name "Pablo Valenzuela C."
+name                     : &name "Pablo Valenzuela Casasempere"
 description              : &description "Ph.D. student, Economics Department, University of British Columbia"
 url                      : https://pvalenzuelac.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pablo Valenzuela-Casasempere"
+  name             : "Pablo Valenzuela Casasempere"
   avatar           : "pablovalenzuela.png"
   bio              : "First year Econ. Student @UBC-VSE"
   location         : "Vancouver, British Columbia"
