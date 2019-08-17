@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my CV [here](https://pvalenzuelac.github.io/files/CV_Pablo_Valenzuela.pdf).
+
 Education
 ======
 * B.A. in Economics,PUC-Chile, [2012 - 2016]
@@ -38,7 +40,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
@@ -49,11 +51,10 @@ Skills
 * Skill 3
 
 
-  
-  
 
-  
+
+
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-
