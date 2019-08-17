@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](https://pvalenzuelac.github.io/files/CV_Pablo_Valenzuela.pdf).
+You can download my [CV here](https://pvalenzuelac.github.io/files/CV_Pablo_Valenzuela.pdf).
 
 Education
 ======
