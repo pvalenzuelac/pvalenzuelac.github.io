@@ -19,42 +19,44 @@ Education
 
 Book Chapters
 ======
- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
- % {% endfor %}</ul>
+* Una restricción vehicular inteligente para la congestión y contaminación de Santiago (2019) (with [JP. Montero](https://sites.google.com/site/jpmontero1812/home), F. Sepúlveda, [L. Basso](http://www.leonardojbasso.cl), L. Cifuentes, and S. Vicuña). In: Centro Políticas Públicas UC, editors, Propuestas Para Chile - Concurso Políticas Públicas UC 2018. Chapter 3, 78-113 (March 2019). [[PDF Copy](http://pvalenzuelac.github.io/files/cap_pol_publicas.pdf)]
 
-Research
+Work in Progress
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Air Pollution and Road Safety (December, 2017)[[PDF Copy](http://pvalenzuelac.github.io/files/tesis.pdf)]
+* Mechanism Design in Airport Regulation (with [Hugo Silva](https://sites.google.com/site/hugosilvam/) and [Nicolás Figueroa](https://sites.google.com/site/nicolas86figueroa/))
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant
+  * [2015 - 2016]: Rodrigo Harrison, Economics, PUC.
+  * [2016 - 2019]: Hugo Silva, Economics, PUC.
+  * [2018 - 2019]: Juan-Pablo Montero, Economics, PUC.
+  * [2018 - 2018]: Gabriel Natividad, Economics, Universidad de Piura.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Teaching assistant
+  * Graduate
+    * Contract Theory, Mathematical Economics, and Transportation Economics.
+  * Undergraduate
+    * Principles of Macroeconomics (1), Principles of Microeconomics (2), Macroeconomics I (1), Microeconomics II (1), Game Theory (1), Game Theory for Business (1), Chilean Economic History (5), Econometrics (1), Industrial Organization (3), and Strategy in Firms (2).
 
-Skills
+Honors
 ======
-* Skill 1
-* Skill 2
- * Sub-skill 2.1
- * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2015 Academic Excellence Award, for highest GPA during 2015's academic year, PUC.
+* 2016 Teaching Assistant Excellence Award, for best teaching assistant in the Economics Department for the year 2016, PUC.
 
-
-
-
-
-
-Service and leadership
+References
 ======
-* Currently signed in to 43 different slack teams
+* [Hugo Silva](https://sites.google.com/site/hugosilvam/) (Assistant Professor, Economics Department, PUC).
+* [Joaquín Poblete](https://sites.google.com/site/joacopoblete/) (Associate Professor, School of Management, PUC).
+* [Gabriel Natividad](http://udep.edu.pe/personas/gabriel-natividad/) (Professor, Economics Department, Universidad de Piura).
+* [Juan-Pablo Montero](https://sites.google.com/site/jpmontero1812/home) (Professor, Economics Department, PUC).
+
+Other
+======
+* Languages: Spanish and English.
+* Softwares: Latex, Stata, and Matlab.
+* Member of Students Council (2014), Business and Economics Department, PUC.
+* Status: Married
+* Citizenship: Chilean and Spaniard
+* Born on March 11th 1993.
