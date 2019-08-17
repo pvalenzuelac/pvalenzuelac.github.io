@@ -11,7 +11,7 @@ author_profile: true
 <b> Mechanism Design in Airport Regulation </b> (<i>with [Hugo Silva](https://sites.google.com/site/hugosilvam/) and [Nicolás Figueroa](https://sites.google.com/site/nicolas86figueroa/)</i>)
 
 ## Book Chapters
-<b> [Una restricción vehicular inteligente para la congestión y contaminación de Santiago](http://pvalenzuelac.github.io/research/pol_publicas2019). </b>
+<b> [Una restricción vehicular inteligente para la congestión y contaminación de Santiago](http://pvalenzuelac.github.io/files/cap_pol_publicas.pdf). </b>
 Juan-Pablo Montero, Leonardo Basso, Felipe Sepúlveda, Luis Cifuentes, Pablo Valenzuela, and Sebastián Vicuña.
 <i>Centro Políticas Públicas UC</i>, editors, Propuestas Para Chile - Concurso Políticas Públicas UC 2018. Chapter 3, 78-113 (March 2019).
 [[PDF Copy](http://pvalenzuelac.github.io/files/cap_pol_publicas.pdf)]
