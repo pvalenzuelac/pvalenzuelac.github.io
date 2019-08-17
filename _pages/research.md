@@ -5,12 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Work in Progress
+<b> Air Pollution and Road Safety </b> (December, 2017)[[PDF Copy](http://pvalenzuelac.github.io/files/tesis.pdf)]
 
-{% include base_path %}
+<b> Mechanism Design in Airport Regulation </b> (<i> with [Hugo Silva](https://sites.google.com/site/hugosilvam/) and [Nicolás Figueroa](https://sites.google.com/site/nicolas86figueroa/) </i>)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Book Chapters
+<b> [Una restricción vehicular inteligente para la congestión y contaminación de Santiago](http://pvalenzuelac.github.io/research/pol_publicas2019). </b>
+Juan-Pablo Montero, Leonardo Basso, Felipe Sepúlveda, Luis Cifuentes, <b>Pablo Valenzuela</b>, and Sebastián Vicuña.
+<i>Centro Políticas Públicas UC</i>, editors, Propuestas Para Chile - Concurso Políticas Públicas UC 2018. Chapter 3, 78-113 (March 2019).
+[[PDF Copy](http://pvalenzuelac.github.io/files/cap_pol_publicas.pdf)]
