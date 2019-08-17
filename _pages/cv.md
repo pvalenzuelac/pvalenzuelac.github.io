@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Economics,PUC-Chile, 2016
-* M.A. in Economics, PUC-Chile, 2017
-%* Ph.D in Economics, University of British Columbia, 2024 (expected)
-
+* B.A. in Economics,PUC-Chile, [2012 - 2016]
+* M.A. in Economics, PUC-Chile, [2016 - 2017]
+* Ph.D in Economics, University of British Columbia, [2019 -   ]
 Publications
 ======
  <ul>{% for post in site.publications %}
