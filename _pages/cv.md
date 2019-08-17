@@ -19,12 +19,12 @@ Education
 
 Book Chapters
 ======
-* Una restricción vehicular inteligente para la congestión y contaminación de Santiago (2019) (_ with [JP. Montero](https://sites.google.com/site/jpmontero1812/home), F. Sepúlveda, [L. Basso](http://www.leonardojbasso.cl), L. Cifuentes, and S. Vicuña_). In: Centro Políticas Públicas UC, editors, Propuestas Para Chile - Concurso Políticas Públicas UC 2018. Chapter 3, 78-113 (March 2019). [[PDF Copy](http://pvalenzuelac.github.io/files/cap_pol_publicas.pdf)]
+* <b> Una restricción vehicular inteligente para la congestión y contaminación de Santiago </b> (2019) (<i> with [JP. Montero](https://sites.google.com/site/jpmontero1812/home), F. Sepúlveda, [L. Basso](http://www.leonardojbasso.cl), L. Cifuentes, and S. Vicuña </i>). In: Centro Políticas Públicas UC, editors, Propuestas Para Chile - Concurso Políticas Públicas UC 2018. Chapter 3, 78-113 (March 2019). [[PDF Copy](http://pvalenzuelac.github.io/files/cap_pol_publicas.pdf)]
 
 Work in Progress
 ======
-* Air Pollution and Road Safety (December, 2017)[[PDF Copy](http://pvalenzuelac.github.io/files/tesis.pdf)]
-* Mechanism Design in Airport Regulation (_ with [Hugo Silva](https://sites.google.com/site/hugosilvam/) and [Nicolás Figueroa](https://sites.google.com/site/nicolas86figueroa/) _)
+* <b> Air Pollution and Road Safety </b> (December, 2017)[[PDF Copy](http://pvalenzuelac.github.io/files/tesis.pdf)]
+* <b> Mechanism Design in Airport Regulation </b> (<i> with [Hugo Silva](https://sites.google.com/site/hugosilvam/) and [Nicolás Figueroa](https://sites.google.com/site/nicolas86figueroa/) </i>)
 
 Work experience
 ======
