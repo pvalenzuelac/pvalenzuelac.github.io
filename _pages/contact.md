@@ -11,7 +11,6 @@ redirect_from:
 
 * My personal email is [pdvalenzuela@uc.cl](pdvalenzuela@uc.cl).
 * Address:
-    * Department of economics
-    * Vancouver School of Economics
-    * University of British Columbia
-    * 6000 Iona Drive, Vancouver, V6T1L4
+<address>
+  Department of economics<br /> Vancouver School of Economics<br /> University of British Columbia<br /> 6000 Iona Drive, Vancouver, BC, V6T1L4
+</address>
