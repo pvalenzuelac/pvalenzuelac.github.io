@@ -29,10 +29,10 @@ Work in Progress
 Work experience
 ======
 * Research Assistant
-  * [2015 - 2016]: Rodrigo Harrison, Economics, PUC.
-  * [2016 - 2019]: Hugo Silva, Economics, PUC.
-  * [2018 - 2019]: Juan-Pablo Montero, Economics, PUC.
-  * [2018 - 2018]: Gabriel Natividad, Economics, Universidad de Piura.
+  * Rodrigo Harrison, Economics, PUC. [2015 - 2016]
+  * Hugo Silva, Economics, PUC. [2016 - 2019]
+  * Juan-Pablo Montero, Economics, PUC. [2018 - 2019]
+  * Gabriel Natividad, Economics, Universidad de Piura. [2018 - 2018]
 
 * Teaching assistant
   * Graduate
