@@ -13,7 +13,7 @@ You can download my [CV here](https://pvalenzuelac.github.io/files/CV_Pablo_Vale
 
 Education
 ======
-* B.A. in Economics,PUC-Chile, [2012 - 2016]
+* B.A. in Economics, PUC-Chile, [2012 - 2016]
 * M.A. in Economics, PUC-Chile, [2016 - 2017]
 * Ph.D in Economics, University of British Columbia, [2019 -   ]
 
