@@ -8,7 +8,6 @@ author_profile: true
 ## Work in Progress
 <b> Air Pollution and Road Safety </b> (December, 2017)[[PDF Copy](http://pvalenzuelac.github.io/files/tesis.pdf)]
 
-<b> Mechanism Design in Airport Regulation </b> (<i>with [Hugo Silva](https://sites.google.com/site/hugosilvam/) and [Nicolás Figueroa](https://sites.google.com/site/nicolas86figueroa/)</i>)
 
 ## Book Chapters
 <b> [Una restricción vehicular inteligente para la congestión y contaminación de Santiago](http://pvalenzuelac.github.io/files/cap_pol_publicas.pdf). </b>
