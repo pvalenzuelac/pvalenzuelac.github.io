@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pvalenzuelac.github.io/pvalenzuelac.github.io/sitemap.xml
