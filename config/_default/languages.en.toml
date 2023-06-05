@@ -1,0 +1,31 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+title = "Home :house:"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  isoCode = "en"
+  displayName = "EN"
+  rtl = false
+
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+
+[author]
+name = "Pablo Valenzuela-Casasempere"
+image = "img/pablo.jpg"
+  headline = "Ph.D. candidate at VSE-UBC"
+  #bio = "A little bit about you asjfdh asdjfh adsfh adskfh adgfha asdgas f"
+  links = [
+     { email = "mailto:pv93@student.ubc.ca" },
+   { github = "https://github.com/pvalenzuelac" },
+  #   { google = "https://www.google.com/" },
+  { linkedin = "https://cl.linkedin.com/in/pablo-valenzuela-casasempere-49338987" },
+  #   { researchgate = "https://www.researchgate.net/profile/username" },
+  #   { slack = "https://workspace.url/team/userid" },
+  { twitter = "https://twitter.com/pvalenzuelac" },
+  ]
