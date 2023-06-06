@@ -6,6 +6,7 @@ baseURL = "https://pvalenzuelac.github.io"
 defaultContentLanguage = "en"
 theme = "congo"
 
+googleAnalytics = "G-BH6CKV9W7H"
 
 enableRobotsTXT = true
 paginate = 10
