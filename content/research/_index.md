@@ -7,7 +7,7 @@ You can find more about my projects in my [CV](../files/cv_pablo_march23.pdf).
 
 ## Working papers
 - **Highway Site Selection and Race: Evidence from the US Interstate Highway System**
-  <br /> Draft available upon request.
+  <br /> [[Draft]](../files/hwys_May2023.pdf)
   <a id="hide1" href="#hide1" class="hide">[Show Abstract]</a>
   <a id="show1" href="#show1" class="show">[Hide Abstract]</a>
   <div class="details">
