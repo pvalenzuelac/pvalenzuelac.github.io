@@ -3,15 +3,15 @@ title: "Research"
 layout: simple
 ---
 
-You can find more about my projects in my [CV](../files/cv_pablo_march23.pdf).
+You can find more about my projects in my [CV](../files/cv_pablo_march24.pdf).
 
 ## Working papers
-- **Highway Site Selection and Race: Evidence from the US Interstate Highway System**
+- **Infrastructure Provision and Displacement: Evidence from the Interstate Highway System**
   <br /> [[Draft]](../files/hwys_May2023.pdf)
   <a id="hide1" href="#hide1" class="hide">[Show Abstract]</a>
   <a id="show1" href="#show1" class="show">[Hide Abstract]</a>
   <div class="details">
-    This paper examines the causes and consequences of urban highway placements in the US. By exploiting cross-sectional variation in 1950, the last census before the Federal program that initiated highway construction, I find that tracts with a higher proportion of the city’s Black population were more likely to have highways constructed through them. These effects do not stem from a deliberate Federal agenda to build highways in Black neighbor- hoods but rather from State officials utilizing highway construction for their own purposes. Turning to the consequences for treated neighborhoods, by employing a matched difference-in-difference model, I find that tracts where highways are constructed experience a decline in the White population over the long term while the number of Black households remains unaffected. Moreover, highway construction decreases the number of housing units but does not impact median land prices.
+    This paper studies the consequences of displacement resulting from the construction of the Interstate Highway System in the United States. It starts by showing that highway placement within urban areas was not random. Exploiting cross-sectional variation between neighborhoods in 1950, the last census before the 1956 Federal-Aid Highway Act, I show that tracts with a higher proportion of the city's Black population were more prone to receive a highway, even after controlling for socio-demographic and geographic characteristics of the tract.  Subsequently, the paper examines the impact on affected individuals. By geocoding the full-count 1940 census and linking it to administrative mortality records, I track affected individuals before and after highway construction. Exploiting the quasi-random variation in close proximity to highway developments, I show that displaced individuals die at a younger age, exhibit a higher likelihood of relocating from their neighborhood, and lived in neighborhoods with lower socioeconomic characteristics at their time of death. Moreover, although more nuanced, individuals residing near a highway are negatively impacted. These effects show up in the aggregate. By running an event study design for neighborhoods between 1930 and 2020, I found that highway construction is associated with out-migration, explained by a decrease in the Black population.
   </div> 
 
 
@@ -32,7 +32,12 @@ You can find more about my projects in my [CV](../files/cv_pablo_march23.pdf).
 
 ## Work in progress
 - **Valuing Neighbourhood Amenities using Revealed Preference** 
-  <br /> with [Pierre-Loup Beauregard](https://sites.google.com/view/pierreloupbeauregard/home).
+  <br /> with [Pierre-Loup Beauregard](https://www.pierreloupbeauregard.org).
+    <a id="hide2" href="#hide2" class="hide">[Show Abstract]</a>
+    <a id="show2" href="#show2" class="show">[Hide Abstract]</a>
+    <div class="details">
+      We analyze the formation of immigrant enclaves in Canada. We develop a quantitative model of internal city structure in which forward-looking individuals choose where to live and work at every period. We allow for heterogeneous preferences over endogenous amenities depending on immigration status. Exploiting Canadian administrative tax files, we estimate group-specific neighborhood valuation using a revealed preference approach. By exploiting the neighborhood-to-neighborhood transition of households in Canada, we document that the correlation of  neighborhood valuations between foreign- and Canadian-born household is positive but far from the unity. We then analyze counterfactual scenarios where households have the same preferences regardless of nationality, and study the implications for income and urban segregation.
+    </div>
 - **Human Capital Spillovers Across Cities** 
   <br /> with [Giulia Lo Forte](https://economics.ubc.ca/profile/giulia-lo-forte/).
 - **Aid and Urbanization in Africa**
