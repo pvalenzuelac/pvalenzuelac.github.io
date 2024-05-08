@@ -7,7 +7,7 @@ You can find more about my projects in my [CV](../files/cv_pablo_march24.pdf).
 
 ## Working papers
 - **Infrastructure Provision and Displacement: Evidence from the Interstate Highway System**
-  <br /> [[Draft]](../files/hwys_May2023.pdf)
+  <br /> [[Draft]](../files/hwys_April2024.pdf)
   <a id="hide1" href="#hide1" class="hide">[Show Abstract]</a>
   <a id="show1" href="#show1" class="show">[Hide Abstract]</a>
   <div class="details">
@@ -33,13 +33,15 @@ You can find more about my projects in my [CV](../files/cv_pablo_march24.pdf).
 ## Work in progress
 - **Valuing Neighbourhood Amenities using Revealed Preference** 
   <br /> with [Pierre-Loup Beauregard](https://www.pierreloupbeauregard.org).
-    <a id="hide2" href="#hide2" class="hide">[Show Abstract]</a>
-    <a id="show2" href="#show2" class="show">[Hide Abstract]</a>
-    <div class="details">
+  <a id="hide5" href="#hide5" class="hide">[Show Abstract]</a>
+  <a id="show5" href="#show5" class="show">[Hide Abstract]</a>
+  <div class="details">
       We analyze the formation of immigrant enclaves in Canada. We develop a quantitative model of internal city structure in which forward-looking individuals choose where to live and work at every period. We allow for heterogeneous preferences over endogenous amenities depending on immigration status. Exploiting Canadian administrative tax files, we estimate group-specific neighborhood valuation using a revealed preference approach. By exploiting the neighborhood-to-neighborhood transition of households in Canada, we document that the correlation of  neighborhood valuations between foreign- and Canadian-born household is positive but far from the unity. We then analyze counterfactual scenarios where households have the same preferences regardless of nationality, and study the implications for income and urban segregation.
-    </div>
+  </div>
+
+
 - **Human Capital Spillovers Across Cities** 
-  <br /> with [Giulia Lo Forte](https://economics.ubc.ca/profile/giulia-lo-forte/).
+  <br /> with [Giulia Lo Forte](https://loforteg.github.io).
 - **Aid and Urbanization in Africa**
   <br /> with [Sara Benetti](https://economics.ubc.ca/profile/sara-benetti/).
 ---
