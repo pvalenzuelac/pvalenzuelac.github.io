@@ -33,6 +33,7 @@ You can find more about my projects in my [CV](../files/cv_pablo_march24.pdf).
 ## Work in progress
 - **Valuing Neighbourhood Amenities using Revealed Preference** 
   <br /> with [Pierre-Loup Beauregard](https://www.pierreloupbeauregard.org).
+  <br /> Draft coming soon.
   <a id="hide5" href="#hide5" class="hide">[Show Abstract]</a>
   <a id="show5" href="#show5" class="show">[Hide Abstract]</a>
   <div class="details">
