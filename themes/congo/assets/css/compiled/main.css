@@ -414,6 +414,7 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 img,
 video {
   max-width: 100%;
+  width: 3000px;
   height: auto;
 }
 
@@ -1922,6 +1923,14 @@ body:has(#menu-controller:checked) {
   height: 9rem;
 }
 
+.h-72 {
+  height: 18rem;
+}
+
+.h-96 {
+  height: 25rem;
+}
+
 .h-8 {
   height: 2rem;
 }
@@ -1956,6 +1965,14 @@ body:has(#menu-controller:checked) {
 
 .w-36 {
   width: 9rem;
+}
+
+.w-72 {
+  width: 18rem;
+}
+
+.w-96 {
+  width: 24rem;
 }
 
 .w-6 {
@@ -2108,6 +2125,16 @@ body:has(#menu-controller:checked) {
 .rounded-full {
   border-radius: 9999px;
 }
+
+.squared-full {
+  border-radius: 0;
+  /* Remove rounded corners to make it a square */
+  width: 100%;
+  /* Ensure the image takes full width of the container (optional) */
+  height: auto;
+  /* Maintain aspect ratio */
+}
+
 
 .rounded-lg {
   border-radius: 0.5rem;
@@ -3027,8 +3054,7 @@ body:has(#menu-controller:checked) {
 /*
 Show/Hide Abstract
 */
-
-
+/*
 .details,
 .show,
 .hide:target {
@@ -3040,11 +3066,26 @@ Show/Hide Abstract
   display: block;
 }
 
+*/
+
+.details,
+.show {
+  display: none;
+}
+
+.hide:target+.show,
+.hide:target~.details {
+  display: block;
+}
+
+.hide:target {
+  display: none;
+}
 
 /*
   Outline of the profile picture
 */
 
 img {
-  outline: 5px solid #082f49;
+  outline: 2px solid #1E293A;
 }

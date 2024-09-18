@@ -22,17 +22,17 @@ You can find more about my projects in my [CV](../files/cv_pablo_march24.pdf).
   <div class="details">
   This paper documents the heterogeneous rise in the urban gradient of the college wage gap across workers of different ages between 1980 and 2019. Using immigrants' enclaves from 1970 as source of identification, I find that the young workers have traditionally had a steeper relationship between college wage gap and city population than old workers. Also, I find that the evolution of this urban gradient of the college wage gap has been larger for younger workers. These findings are not caused by sorting in unobserved characteristics, by outliers in the wage distribution, or by compositional changes. I show that the source of the increase in the urban component of the college wage gap is a shift in the occupational structure across the work-cycle and cities. While old and young college workers have shifted away from highly-routinary-low-paying jobs, specially in more populated cities, young high school graduates’ occupational structure has remained unaltered since 1980.
   </div>
-
-
----
-## Work in progress
 - **Valuing Neighbourhood Amenities using Revealed Preference** 
+  <br />[Draft coming soon]
   <br /> with [Pierre-Loup Beauregard](https://www.pierreloupbeauregard.org).
   <a id="hide3" href="#hide3" class="hide">[Show Abstract]</a>
   <a id="show3" href="#show3" class="show">[Hide Abstract]</a>
   <div class="details">
   We analyze the formation of immigrant enclaves in Canada. We develop a quantitative model of internal city structure in which forward-looking individuals choose where to live and work at every period. We allow for heterogeneous preferences over endogenous amenities depending on immigration status. We exploit Canadian administrative tax files and estimate group-specific neighborhood valuation using a revealed preference approach. By exploiting the neighborhood-to-neighborhood transition of households in Canada, we document that the correlation of neighborhood valuations between foreign- and Canadian-born households is positive but far from unity. We then analyze counterfactual scenarios where households have the same preferences regardless of nationality and study the implications for income and urban segregation.
   </div> 
+---
+## Work in progress
+
 - **Human Capital Spillovers Across Cities** 
   <br/> with [Giulia Lo Forte](https://loforteg.github.io).
 
