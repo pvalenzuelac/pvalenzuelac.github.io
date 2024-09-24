@@ -6,22 +6,19 @@ layout: simple
 You can find more about my projects in my [CV](../files/cv_pablo_march24.pdf).
 
 ---
-## Working papers
+## Job Market Paper
 - **Infrastructure Provision and Displacement: Evidence from the Interstate Highway System**
-  <br /> Last version: June 2024. [[Draft]](../files/hwys_June2024.pdf)
+  <br /> Best Student Paper Prize 2024, Urban Economics Association.
+  <br /> Last version: June 2024 (new draft coming soon). [[Draft]](../files/hwys_June2024.pdf)
   <a id="hide1" href="#hide1" class="hide">[Show Abstract]</a>
   <a id="show1" href="#show1" class="show">[Hide Abstract]</a>
   <div class="details">
     This paper studies the consequences of displacement resulting from the construction of the Interstate Highway System in the United States. It starts by showing that highway placement within urban areas was not random. Exploiting cross-sectional variation between neighborhoods in 1950, the last census before the 1956 Federal-Aid Highway Act, I show that tracts with a higher proportion of the city's Black population were more prone to receive a highway, even after controlling for socio-demographic and geographic characteristics of the tract.  Subsequently, the paper examines the impact on affected individuals. By geocoding the full-count 1940 census and linking it to administrative mortality records, I track affected individuals before and after highway construction. Exploiting the quasi-random variation in close proximity to highway developments, I show that displaced individuals die at a younger age, exhibit a higher likelihood of relocating from their neighborhood, and lived in neighborhoods with lower socioeconomic characteristics at their time of death. Moreover, although more nuanced, individuals residing near a highway are negatively impacted. These effects show up in the aggregate. By running an event study design for neighborhoods between 1930 and 2020, I found that highway construction is associated with out-migration, explained by a decrease in the Black population.
   </div> 
   <br/>
-- **Does the College Bias of Agglomeration Externalities Vary Across the Work-Cycle and Time?**
-  <br /> Last version: October 2021. [[Draft]](../files/wics_2021.pdf)
-  <a id="hide2" href="#hide2" class="hide">[Show Abstract]</a>
-  <a id="show2" href="#show2" class="show">[Hide Abstract]</a>
-  <div class="details">
-  This paper documents the heterogeneous rise in the urban gradient of the college wage gap across workers of different ages between 1980 and 2019. Using immigrants' enclaves from 1970 as source of identification, I find that the young workers have traditionally had a steeper relationship between college wage gap and city population than old workers. Also, I find that the evolution of this urban gradient of the college wage gap has been larger for younger workers. These findings are not caused by sorting in unobserved characteristics, by outliers in the wage distribution, or by compositional changes. I show that the source of the increase in the urban component of the college wage gap is a shift in the occupational structure across the work-cycle and cities. While old and young college workers have shifted away from highly-routinary-low-paying jobs, specially in more populated cities, young high school graduates’ occupational structure has remained unaltered since 1980.
-  </div>
+
+---
+## Working papers
 - **Valuing Neighbourhood Amenities using Revealed Preference** 
   <br />[Draft coming soon]
   <br /> with [Pierre-Loup Beauregard](https://www.pierreloupbeauregard.org).
@@ -30,9 +27,16 @@ You can find more about my projects in my [CV](../files/cv_pablo_march24.pdf).
   <div class="details">
   We analyze the formation of immigrant enclaves in Canada. We develop a quantitative model of internal city structure in which forward-looking individuals choose where to live and work at every period. We allow for heterogeneous preferences over endogenous amenities depending on immigration status. We exploit Canadian administrative tax files and estimate group-specific neighborhood valuation using a revealed preference approach. By exploiting the neighborhood-to-neighborhood transition of households in Canada, we document that the correlation of neighborhood valuations between foreign- and Canadian-born households is positive but far from unity. We then analyze counterfactual scenarios where households have the same preferences regardless of nationality and study the implications for income and urban segregation.
   </div> 
+- **Does the College Bias of Agglomeration Externalities Vary Across the Work-Cycle and Time?**
+  <br /> Last version: October 2021. [[Draft]](../files/wics_2021.pdf)
+  <a id="hide2" href="#hide2" class="hide">[Show Abstract]</a>
+  <a id="show2" href="#show2" class="show">[Hide Abstract]</a>
+  <div class="details">
+  This paper documents the heterogeneous rise in the urban gradient of the college wage gap across workers of different ages between 1980 and 2019. Using immigrants' enclaves from 1970 as source of identification, I find that the young workers have traditionally had a steeper relationship between college wage gap and city population than old workers. Also, I find that the evolution of this urban gradient of the college wage gap has been larger for younger workers. These findings are not caused by sorting in unobserved characteristics, by outliers in the wage distribution, or by compositional changes. I show that the source of the increase in the urban component of the college wage gap is a shift in the occupational structure across the work-cycle and cities. While old and young college workers have shifted away from highly-routinary-low-paying jobs, specially in more populated cities, young high school graduates’ occupational structure has remained unaltered since 1980.
+  </div>
+
 ---
 ## Work in progress
-
 - **Human Capital Spillovers Across Cities** 
   <br/> with [Giulia Lo Forte](https://loforteg.github.io).
 
