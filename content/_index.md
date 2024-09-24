@@ -19,7 +19,7 @@ My [job market paper](../files/hwys_June2024.pdf) was awarded the [Best Student 
 
 I was the recipient of the [2024 Sokoloff Dissertation Fellowship](https://eh.net/grants-fellowships/), a recognition awarded by the [Economic History Association](https://eh.net).
 
-<br /> You can find more about me in my [CV](files/cv_pablo_march24.pdf).
+<br /> You can find more about me in my [CV](files/cv_pablo_last.pdf).
 
 
 
