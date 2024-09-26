@@ -14,7 +14,7 @@ I am also member of [The Industrial Policy Group](https://www.industrialpolicygr
 
 **I am on the 2024/25 academic job market.**
 
-My [job market paper](../files/hwys_June2024.pdf) was awarded the [Best Student Paper Prize](https://urbaneconomics.org/meetings/awards.html) at the 18th North American Meeting of the Urban Economics Association.
+My [job market paper](../files/displacement_jmp.pdf) was awarded the [Best Student Paper Prize](https://urbaneconomics.org/meetings/awards.html) at the 18th North American Meeting of the Urban Economics Association.
 
 
 I was the recipient of the [2024 Sokoloff Dissertation Fellowship](https://eh.net/grants-fellowships/), a recognition awarded by the [Economic History Association](https://eh.net).

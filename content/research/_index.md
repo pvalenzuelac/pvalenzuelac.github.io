@@ -9,7 +9,7 @@ You can find more about my projects in my [CV](../files/cv_pablo_last.pdf).
 ## Job Market Paper
 - **Infrastructure Provision and Displacement: Evidence from the Interstate Highway System**
   <br /> Best Student Paper Prize 2024, Urban Economics Association.
-  <br /> Last version: June 2024 (new draft coming soon). [[Draft]](../files/hwys_June2024.pdf)
+  <br /> Last version: June 2024 (new draft coming soon). [[Draft]](../files/displacement_jmp.pdf)
   <a id="hide1" href="#hide1" class="hide">[Show Abstract]</a>
   <a id="show1" href="#show1" class="show">[Hide Abstract]</a>
   <div class="details">
@@ -27,6 +27,13 @@ You can find more about my projects in my [CV](../files/cv_pablo_last.pdf).
   <div class="details">
   We analyze the formation of immigrant enclaves in Canada. We develop a quantitative model of internal city structure in which forward-looking individuals choose where to live and work at every period. We allow for heterogeneous preferences over endogenous amenities depending on immigration status. We exploit Canadian administrative tax files and estimate group-specific neighborhood valuation using a revealed preference approach. By exploiting the neighborhood-to-neighborhood transition of households in Canada, we document that the correlation of neighborhood valuations between foreign- and Canadian-born households is positive but far from unity. We then analyze counterfactual scenarios where households have the same preferences regardless of nationality and study the implications for income and urban segregation.
   </div> 
+- **Neighborhood Evolution and Infrastructure Provision** 
+  <br /> [Draft coming soon]
+  <a id="hide6" href="#hide6" class="hide">[Show Abstract]</a>
+  <a id="show6" href="#show6" class="show">[Hide Abstract]</a>
+  <div class="details">
+  Coming soon!
+  </div> 
 - **Does the College Bias of Agglomeration Externalities Vary Across the Work-Cycle and Time?**
   <br /> Last version: October 2021. [[Draft]](../files/wics_2021.pdf)
   <a id="hide2" href="#hide2" class="hide">[Show Abstract]</a>
@@ -38,7 +45,7 @@ You can find more about my projects in my [CV](../files/cv_pablo_last.pdf).
 ---
 ## Work in progress
 - **Human Capital Spillovers Across Cities** 
-  <br/> with [Giulia Lo Forte](https://loforteg.github.io).
+  <br/> with [Giulia Lo Forte](https://loforteg.github.io). [[Slides]](../files/hcs_slides.pdf)
 
 - **Aid and Urbanization in Africa**
 <br/> with [Sara Benetti](https://economics.ubc.ca/profile/sara-benetti/).
