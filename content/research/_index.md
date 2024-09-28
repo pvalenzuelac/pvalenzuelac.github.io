@@ -19,7 +19,7 @@ You can find more about my projects in my [CV](../files/cv_pablo_last.pdf).
 
 ---
 ## Working papers
-- **Valuing Neighbourhood Amenities using Revealed Preference** 
+- **Immigrant Neighborhood Formation: Evidence from Canadian Cities** 
   <br />[Draft coming soon]
   <br /> with [Pierre-Loup Beauregard](https://www.pierreloupbeauregard.org).
   <a id="hide3" href="#hide3" class="hide">[Show Abstract]</a>
