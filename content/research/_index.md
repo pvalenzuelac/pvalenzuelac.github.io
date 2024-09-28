@@ -32,10 +32,17 @@ You can find more about my projects in my [CV](../files/cv_pablo_last.pdf).
   <a id="hide6" href="#hide6" class="hide">[Show Abstract]</a>
   <a id="show6" href="#show6" class="show">[Hide Abstract]</a>
   <div class="details">
-  Coming soon!
+    This paper examines the long-run socioeconomic impact of highway construction on U.S. neighborhoods.
+    I construct a balanced panel of neighborhood-level characteristics from 1930 to 2020 for 62 metropolitan areas by combining data from historical census records and decennial censuses.
+    Neighborhood-level aggregates for 1930 and 1940 are created by geocoding address-level information from historical files and then aggregating the data to match census tract boundaries.
+    Using a matched difference-in-differences design, I find that highway construction reduces the total population of neighborhoods.
+    The effects are driven by a relative decline in the Black population, with no significant effect on the white population.
+    There is no evidence of changes in rents, but homeownership rates decrease following highway construction.
+    The analysis suggests that these effects are more pronounced in suburban areas and in neighborhoods with a low initial share of Black residents.
+    Additionally, I find evidence of spillover effects on adjacent neighborhoods.
   </div> 
 - **Does the College Bias of Agglomeration Externalities Vary Across the Work-Cycle and Time?**
-  <br /> Last version: October 2021. [[Draft]](../files/wics_2021.pdf)
+  <br /> Last version: October 2021. [[Draft]](../files/wics.pdf)
   <a id="hide2" href="#hide2" class="hide">[Show Abstract]</a>
   <a id="show2" href="#show2" class="show">[Hide Abstract]</a>
   <div class="details">
