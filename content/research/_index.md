@@ -13,7 +13,7 @@ You can find more about my projects in my [CV](../files/cv_pablo_last.pdf).
   <a id="hide1" href="#hide1" class="hide">[Show Abstract]</a>
   <a id="show1" href="#show1" class="show">[Hide Abstract]</a>
   <div class="details">
-    This paper studies the consequences of displacement resulting from the construction of the Interstate Highway System in the United States. It starts by showing that highway placement within urban areas was not random. Exploiting cross-sectional variation between neighborhoods in 1950, the last census before the 1956 Federal-Aid Highway Act, I show that tracts with a higher proportion of the city's Black population were more prone to receive a highway, even after controlling for socio-demographic and geographic characteristics of the tract.  Subsequently, the paper examines the impact on affected individuals. By geocoding the full-count 1940 census and linking it to administrative mortality records, I track affected individuals before and after highway construction. Exploiting the quasi-random variation in close proximity to highway developments, I show that displaced individuals die at a younger age, exhibit a higher likelihood of relocating from their neighborhood, and lived in neighborhoods with lower socioeconomic characteristics at their time of death. Moreover, although more nuanced, individuals residing near a highway are negatively impacted. These effects show up in the aggregate. By running an event study design for neighborhoods between 1930 and 2020, I found that highway construction is associated with out-migration, explained by a decrease in the Black population.
+    This paper studies the long-run effects of highway construction on residents' socio-economic outcomes. To do so, I geocode the address information from the full-count 1940 census and link it to administrative mortality records from 1995 to 2005, enabling me to track individuals over time. The findings show that individuals displaced by highway construction are more likely to out-migrate from their neighborhoods, die at younger ages, and live in neighborhoods with lower socioeconomic characteristics at the time of their death. The effects of highway construction also extend to individuals living near future highways, who are similarly more likely to out-migrate and reside in neighborhoods with lower socioeconomic characteristics at the time of death.  These effects are primarily driven by individuals relocating to areas further from job opportunities and with reduced access to healthcare.
   </div> 
   <br/>
 
@@ -53,7 +53,11 @@ You can find more about my projects in my [CV](../files/cv_pablo_last.pdf).
 ## Work in progress
 - **Human Capital Spillovers Across Cities** 
   <br/> with [Giulia Lo Forte](https://loforteg.github.io). [[Slides]](../files/hcs_slides.pdf)
-
+  <a id="hide7" href="#hide7" class="hide">[Show Abstract]</a>
+  <a id="show7" href="#show7" class="show">[Hide Abstract]</a>
+  <div class="details">
+  This paper studies human capital spillovers among Spanish workers. Leveraging administrative matched employer-employee data for Spain between 2006 and 2020, we study whether the experience gained by workers in larger cities transfers to workers in smaller cities when they relocate. We find that, for workers in medium-sized cities, their three-year wage growth is 1.2 log points larger for each year of experience their coworkers accumulated in a large city. This positive knowledge spillover may mitigate the negative welfare effects of restricting the growth of large cities – an avenue we plan to explore in future research.
+  </div>
 - **Aid and Urbanization in Africa**
 <br/> with [Sara Benetti](https://economics.ubc.ca/profile/sara-benetti/).
 

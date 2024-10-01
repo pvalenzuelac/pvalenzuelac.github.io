@@ -9,7 +9,7 @@ cascade:
 Welcome to my website!
 
 My name is Pablo Valenzuela-Casasempere (he/him) and I am a Ph.D. candidate in economics at the [Vancouver School of Economics](https://economics.ubc.ca/). 
-I am an urban economist with interests in history, industrialization, and labor economics. 
+I am an urban economist with interests in history, industrialization, and public economics. 
 
 **I am on the 2024/25 academic job market.**
 
