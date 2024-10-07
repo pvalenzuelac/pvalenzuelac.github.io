@@ -5,8 +5,8 @@
     {{ with .Site.Author.image }}
     {{ $authorImage := resources.Get . }}
     {{ if $authorImage }}
-    {{ $authorImage := $authorImage.Fill "575x575 Center" }}
-    <img class="mb-2 rounded-full h-96 w-96" width="36" height="36" alt="{{ $.Site.Author.name | default " Author" }}"
+    {{ $authorImage := $authorImage.Fill "750x750 Center" }}
+    <img class="mb-2 rounded-full h-72 w-72" width="36" height="36" alt="{{ $.Site.Author.name | default " Author" }}"
       src="{{ $authorImage.RelPermalink }}" {{ if $.Site.Params.enableImageLazyLoading | default true }} loading="lazy"
       {{ end }} />
     {{ end }}
