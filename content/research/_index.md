@@ -58,7 +58,7 @@ You can find more about my projects in my [CV](../files/cv_pablo_last.pdf).
   <div class="details">
   This paper studies human capital spillovers among Spanish workers. Leveraging administrative matched employer-employee data for Spain between 2006 and 2020, we study whether the experience gained by workers in larger cities transfers to workers in smaller cities when they relocate. We find that, for workers in medium-sized cities, their three-year wage growth is 1.2 log points larger for each year of experience their coworkers accumulated in a large city. This positive knowledge spillover may mitigate the negative welfare effects of restricting the growth of large cities - an avenue we plan to explore in future research.
   </div>
-- **Building a Nation Through Common Experience: Evidence from First Nations' WW1 Participation**
+- **Building a Nation Through Shared Experience: Evidence from First Nations’ Participation in WWI**
   <br/>
   <a id="hide8" href="#hide8" class="hide">[Show Abstract]</a>
   <a id="show8" href="#show8" class="show">[Hide Abstract]</a>
