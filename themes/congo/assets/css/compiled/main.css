@@ -2368,6 +2368,11 @@ body:has(#menu-controller:checked) {
   text-align: right;
 }
 
+.text-justify {
+  text-align: justify;
+}
+
+
 .align-top {
   vertical-align: top;
 }
@@ -3087,5 +3092,5 @@ Show/Hide Abstract
 */
 
 img {
-  outline: 2px solid #1E293A;
+  outline: 1px solid #1E293A;
 }

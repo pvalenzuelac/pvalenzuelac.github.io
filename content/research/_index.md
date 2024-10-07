@@ -8,7 +8,7 @@ You can find more about my projects in my [CV](../files/cv_pablo_last.pdf).
 ---
 ## Job Market Paper
 - **Infrastructure Provision and Displacement: Evidence from the Interstate Highway System**
-  <br /> Best Student Paper Prize 2024, Urban Economics Association.
+  <br/><span style="color: rgb(0,114,178); font-weight: bold;">Best Student Paper Prize 2024, Urban Economics Association.</span>
   <br /> Last version: June 2024 (new draft coming soon). [[Draft]](../files/displacement_jmp.pdf)
   <a id="hide1" href="#hide1" class="hide">[Show Abstract]</a>
   <a id="show1" href="#show1" class="show">[Hide Abstract]</a>
@@ -56,10 +56,22 @@ You can find more about my projects in my [CV](../files/cv_pablo_last.pdf).
   <a id="hide7" href="#hide7" class="hide">[Show Abstract]</a>
   <a id="show7" href="#show7" class="show">[Hide Abstract]</a>
   <div class="details">
-  This paper studies human capital spillovers among Spanish workers. Leveraging administrative matched employer-employee data for Spain between 2006 and 2020, we study whether the experience gained by workers in larger cities transfers to workers in smaller cities when they relocate. We find that, for workers in medium-sized cities, their three-year wage growth is 1.2 log points larger for each year of experience their coworkers accumulated in a large city. This positive knowledge spillover may mitigate the negative welfare effects of restricting the growth of large cities – an avenue we plan to explore in future research.
+  This paper studies human capital spillovers among Spanish workers. Leveraging administrative matched employer-employee data for Spain between 2006 and 2020, we study whether the experience gained by workers in larger cities transfers to workers in smaller cities when they relocate. We find that, for workers in medium-sized cities, their three-year wage growth is 1.2 log points larger for each year of experience their coworkers accumulated in a large city. This positive knowledge spillover may mitigate the negative welfare effects of restricting the growth of large cities - an avenue we plan to explore in future research.
+  </div>
+- **Building a Nation Through Common Experience: Evidence from First Nations' WW1 Participation**
+  <br/>
+  <a id="hide8" href="#hide8" class="hide">[Show Abstract]</a>
+  <a id="show8" href="#show8" class="show">[Hide Abstract]</a>
+  <div class="details">
+  This project examines First Nation assimilation in the U.S., leveraging participation in World War I and linked census data. I find that individuals who participated in the war are more likely to give their children Western names and to migrate to urban areas outside the reservation. Additionally, there is evidence of cultural transmission to other reservation residents and their children. Identification stems from the WWI draft and the influence of war propaganda.
   </div>
 - **Aid and Urbanization in Africa**
-<br/> with [Sara Benetti](https://economics.ubc.ca/profile/sara-benetti/).
+  <br/> with [Sara Benetti](https://economics.ubc.ca/profile/sara-benetti/).
+  <a id="hide9" href="#hide9" class="hide">[Show Abstract]</a>
+  <a id="show9" href="#show9" class="show">[Hide Abstract]</a>
+  <div class="details">
+  The African continent is urbanizing rapidly, but at lower levels of industrialization compared to other regions. At the same time, the continent's reliance on international aid has increased over the past decades. Aid tends to be concentrated in urban areas due to capacity and infrastructure constraints. In this project, we plan to examine the role of international aid in driving the continent's rapid urbanization. 
+  </div>
 
 ---
 ## Book Chapters 

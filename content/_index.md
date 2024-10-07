@@ -19,4 +19,4 @@ I was the recipient of the [2024 Sokoloff Dissertation Fellowship](https://eh.ne
 
 I am also member of [The Industrial Policy Group](https://www.industrialpolicygroup.com).
 
-<br /> You can find more about me in my [CV](files/cv_pablo_last.pdf).
+You can find more about me in my [CV](files/cv_pablo_last.pdf).
