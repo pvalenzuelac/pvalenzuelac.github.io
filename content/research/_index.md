@@ -9,7 +9,7 @@ You can find more about my projects in my [CV](../files/cv_pablo_last.pdf).
 ## Job Market Paper
 - **Infrastructure Provision and Displacement: Evidence from the Interstate Highway System**
   <br/><span style="color: rgb(0,114,178); font-weight: bold;">Best Student Paper Prize 2024, Urban Economics Association.</span>
-  <br /> Last version: June 2024 (new draft coming soon). [[Draft]](../files/displacement_jmp.pdf)
+  <br /> Last version: August 2024 (new draft coming soon). [[Draft]](../files/displacement_jmp.pdf)
   <a id="hide1" href="#hide1" class="hide">[Show Abstract]</a>
   <a id="show1" href="#show1" class="show">[Hide Abstract]</a>
   <div class="details">
