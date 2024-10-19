@@ -42,7 +42,7 @@ You can find more about my projects in my [CV](../files/cv_pablo_last.pdf).
     Additionally, I find evidence of spillover effects on adjacent neighborhoods.
   </div> 
 - **Does the College Bias of Agglomeration Externalities Vary Across the Work-Cycle and Time?**
-  <br /> Last version: October 2021. [[Draft]](../files/wics.pdf)
+  <br /> Last version: October 2024. [[Draft]](../files/wics.pdf)
   <a id="hide2" href="#hide2" class="hide">[Show Abstract]</a>
   <a id="show2" href="#show2" class="show">[Hide Abstract]</a>
   <div class="details">
