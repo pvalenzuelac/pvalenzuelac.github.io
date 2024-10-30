@@ -9,11 +9,11 @@ You can find more about my projects in my [CV](../files/cv_pablo_last.pdf).
 ## Job Market Paper
 - **Infrastructure Provision and Displacement: Evidence from the Interstate Highway System**
   <br/><span style="color: rgb(0,114,178); font-weight: bold;">Best Student Paper Prize 2024, Urban Economics Association.</span>
-  <br /> Last version: August 2024 (new draft coming soon). [[Draft]](../files/displacement_jmp.pdf)
+  <br /> Last version: October 2024. [[Draft]](../files/displacement_jmp.pdf)
   <a id="hide1" href="#hide1" class="hide">[Show Abstract]</a>
   <a id="show1" href="#show1" class="show">[Hide Abstract]</a>
   <div class="details">
-    This paper studies the long-run effects of highway construction on residents' socio-economic outcomes. To do so, I geocode the address information from the full-count 1940 census and link it to administrative mortality records from 1995 to 2005, enabling me to track individuals over time. The findings show that individuals displaced by highway construction are more likely to out-migrate from their neighborhoods, die at younger ages, and live in neighborhoods with lower socioeconomic characteristics at the time of their death. The effects of highway construction also extend to individuals living near future highways, who are similarly more likely to out-migrate and reside in neighborhoods with lower socioeconomic characteristics at the time of death.  These effects are primarily driven by individuals relocating to areas further from job opportunities and with reduced access to healthcare.
+  I study the long-run effects of displacement and neighborhood division by examining individuals affected by the construction of the Interstate Highway System. To do so, I track individuals over time by linking the 1940 census to administrative mortality records from 1995 to 2005. I find that displaced individuals die three months younger, are more likely to leave their neighborhoods, and reside in areas with lower socioeconomic characteristics at the time of death. I also find highly localized spillovers: individuals living within 100 meters of a highway are more likely to leave their neighborhoods and relocate to lower socioeconomic areas, yet they do not experience increased mortality. The neighborhoods where individuals relocate after displacement explain 30% of the displacement-mortality effect. Accounting for the mortality effects of displacement would have increased the cost of building the highway system by 10%. Together, these results enhance our understanding of the costs displacement imposes on individuals and their communities and provide new insights for the design of future infrastructure projects.
   </div> 
   <br/>
 
