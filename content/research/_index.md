@@ -9,24 +9,16 @@ You can find more about my projects in my [CV](../files/cv_pablo_last.pdf).
 ## Job Market Paper
 - **Infrastructure Provision and Displacement: Evidence from the Interstate Highway System**
   <br/><span style="color: rgb(0,114,178); font-weight: bold;">Best Student Paper Prize 2024, Urban Economics Association.</span>
-  <br /> Last version: October 2024. [[Draft]](../files/displacement_jmp.pdf)
-  <a id="hide1" href="#hide1" class="hide">[Show Abstract]</a>
-  <a id="show1" href="#show1" class="show">[Hide Abstract]</a>
+  <br /> Last version: October 2024. [[Draft]](../files/displacement_jmp.pdf)[[Yellow book data]](../files/yellowbook_maps.zip) 
+  <a id="hide1" href="#hide1" class="hide">[Show Abstract]</a> 
+  <a id="show1" href="#show1" class="show">[Hide Abstract]</a> 
   <div class="details">
   I study the long-run effects of displacement and neighborhood division by examining individuals affected by the construction of the Interstate Highway System. To do so, I track individuals over time by linking the 1940 census to administrative mortality records from 1995 to 2005. I find that displaced individuals die three months younger, are more likely to leave their neighborhoods, and reside in areas with lower socioeconomic characteristics at the time of death. I also find highly localized spillovers: individuals living within 100 meters of a highway are more likely to leave their neighborhoods and relocate to lower socioeconomic areas, yet they do not experience increased mortality. The neighborhoods where individuals relocate after displacement explain 30% of the displacement-mortality effect. Accounting for the mortality effects of displacement would have increased the cost of building the highway system by 10%. Together, these results enhance our understanding of the costs displacement imposes on individuals and their communities and provide new insights for the design of future infrastructure projects.
   </div> 
-  <br/>
+  
 
 ---
 ## Working papers
-- **Immigrant Neighborhood Formation: Evidence from Canadian Cities** 
-  <br />[Draft coming soon]
-  <br /> with [Pierre-Loup Beauregard](https://www.pierreloupbeauregard.org).
-  <a id="hide3" href="#hide3" class="hide">[Show Abstract]</a>
-  <a id="show3" href="#show3" class="show">[Hide Abstract]</a>
-  <div class="details">
-  We analyze the formation of immigrant enclaves in Canada. We develop a quantitative model of internal city structure in which forward-looking individuals choose where to live and work at every period. We allow for heterogeneous preferences over endogenous amenities depending on immigration status. We exploit Canadian administrative tax files and estimate group-specific neighborhood valuation using a revealed preference approach. By exploiting the neighborhood-to-neighborhood transition of households in Canada, we document that the correlation of neighborhood valuations between foreign- and Canadian-born households is positive but far from unity. We then analyze counterfactual scenarios where households have the same preferences regardless of nationality and study the implications for income and urban segregation.
-  </div> 
 - **Neighborhood Evolution and Infrastructure Provision**
   <br /> Last version: October 2024. [[Draft]](../files/hwys_ES.pdf)
   <a id="hide6" href="#hide6" class="hide">[Show Abstract]</a>
@@ -48,7 +40,14 @@ You can find more about my projects in my [CV](../files/cv_pablo_last.pdf).
   <div class="details">
   This paper documents the heterogeneous rise in the urban gradient of the college wage gap across workers of different ages between 1980 and 2019. Using immigrants' enclaves from 1970 as source of identification, I find that the young workers have traditionally had a steeper relationship between college wage gap and city population than old workers. Also, I find that the evolution of this urban gradient of the college wage gap has been larger for younger workers. These findings are not caused by sorting in unobserved characteristics, by outliers in the wage distribution, or by compositional changes. I show that the source of the increase in the urban component of the college wage gap is a shift in the occupational structure across the work-cycle and cities. While old and young college workers have shifted away from highly-routinary-low-paying jobs, specially in more populated cities, young high school graduates’ occupational structure has remained unaltered since 1980.
   </div>
-
+- **Immigrant Neighborhood Formation: Evidence from Canadian Cities** 
+  <br />[Draft coming soon]
+  <br /> with [Pierre-Loup Beauregard](https://www.pierreloupbeauregard.org).
+  <a id="hide3" href="#hide3" class="hide">[Show Abstract]</a>
+  <a id="show3" href="#show3" class="show">[Hide Abstract]</a>
+  <div class="details">
+  We analyze the formation of immigrant enclaves in Canada. We develop a quantitative model of internal city structure in which forward-looking individuals choose where to live and work at every period. We allow for heterogeneous preferences over endogenous amenities depending on immigration status. We exploit Canadian administrative tax files and estimate group-specific neighborhood valuation using a revealed preference approach. By exploiting the neighborhood-to-neighborhood transition of households in Canada, we document that the correlation of neighborhood valuations between foreign- and Canadian-born households is positive but far from unity. We then analyze counterfactual scenarios where households have the same preferences regardless of nationality and study the implications for income and urban segregation.
+  </div> 
 ---
 ## Work in progress
 - **Human Capital Spillovers Across Cities** 
