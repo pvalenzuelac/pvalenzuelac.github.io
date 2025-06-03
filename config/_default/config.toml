@@ -4,7 +4,8 @@
 
 baseURL = "https://pvalenzuelac.github.io"
 defaultContentLanguage = "en"
-theme = "congo"
+theme = "poison"
+
 
 googleAnalytics = "G-BH6CKV9W7H"
 
