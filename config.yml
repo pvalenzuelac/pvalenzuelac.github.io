@@ -1,0 +1,102 @@
+baseURL: "https://pascalmichaillat.org/hugo-website/" 
+title: Pablo Valenzuela-Casasempere
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Research
+          url: research/
+          weight: 3 
+        - name: Data
+          url: data/
+          weight: 4 
+        - name: CV
+          url: cv/cv_latest.pdf
+          weight: 5
+
+
+params:
+    description: "This website hosts Pablo Valenzuela-Casasempere's academic information."
+    author: Pablo Valenzuela-Casasempere
+    googleAnalyticsID: "G-BH6CKV9W7H"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["research","data", "CV"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Pablo Valenzuela-Casasempere
+          subtitle: "Welcome! I am an economist with interests in urban economics and economic history. I just completed my PhD in Economics at UBC and will join Yale University as a Postdoctoral Associate in July 2025."
+          imageUrl: "img/pablo.jpg"
+          imageWidth: 320
+          imageHeight: 320
+          buttons:
+            - name: Research
+              url: research/
+            - name: Data
+              url: data/
+            - name: CV
+              url: cv/cv_latest.pdf
+
+
+    socialIcons:
+        - name: CV
+          url: cv/cv_latest.pdf
+        - name: Email
+          url: mailto:pv93@student.ubc.ca
+        - name: Google Scholar
+          url: https://scholar.google.ca/citations?user=796El94AAAAJ&hl=en
+        - name: GitHub
+          url: https://github.com/pvalenzuelac
+        - name: LinkedIn
+          url: https://linkedin.com/in/pablo-valenzuela-casasempere
+        - name: Twitter
+          url: https://x.com/pvalenzuelac
+        - name: Bluesky
+          url: https://bsky.app/profile/pvalenzuelac.bsky.social
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Pablo Valenzuela-Casasempere"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
