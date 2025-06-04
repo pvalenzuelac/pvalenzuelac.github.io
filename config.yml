@@ -1,6 +1,7 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
+baseURL: "https://pvalenzuelac.github.io"
 title: Pablo Valenzuela-Casasempere
 theme: PaperMod
+
 
 enableInlineShortcodes: true
 enableRobotsTXT: true

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Data on Pablo Valenzuela-Casasempere</title>
-    <link>http://localhost:1313/hugo-website/data/</link>
+    <link>https://pvalenzuelac.github.io/data/</link>
     <description>Recent content in Data on Pablo Valenzuela-Casasempere</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-website/data/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pvalenzuelac.github.io/data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digitized Yellow Book maps</title>
-      <link>http://localhost:1313/hugo-website/data/data1/data1/</link>
+      <link>https://pvalenzuelac.github.io/data/data1/data1/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/data/data1/data1/</guid>
+      <guid>https://pvalenzuelac.github.io/data/data1/data1/</guid>
       <description>This dataset contains digitized maps of the 100 cities included in the Yellow Book.</description>
     </item>
   </channel>
