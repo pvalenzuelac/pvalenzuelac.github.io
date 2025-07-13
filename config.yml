@@ -51,7 +51,7 @@ params:
     profileMode:
           enabled: true
           title: Pablo Valenzuela-Casasempere
-          subtitle: "Welcome! I am an economist with interests in urban economics and economic history. I just completed my PhD in Economics at UBC and will join Yale University as a Postdoctoral Associate in July 2025."
+          subtitle: "Welcome! I am an economist with interests in urban economics and economic history. I am a Postdoctoral Associate at Yale University. I received my PhD from the University of British Columbia in 2025. \n \n \n \n You can reach me at pablo.valenzuela-casasempere@yale.edu."
           imageUrl: "img/pablo.jpg"
           imageWidth: 320
           imageHeight: 320
@@ -68,7 +68,7 @@ params:
         - name: CV
           url: cv/cv_latest.pdf
         - name: Email
-          url: mailto:pv93@student.ubc.ca
+          url: mailto:pablo.valenzuela-casasempere@yale.edu
         - name: Google Scholar
           url: https://scholar.google.ca/citations?user=796El94AAAAJ&hl=en
         - name: GitHub
