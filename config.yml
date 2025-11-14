@@ -51,8 +51,8 @@ params:
     profileMode:
           enabled: true
           title: Pablo Valenzuela-Casasempere
-          subtitle: "Welcome! I am an economist with interests in urban economics and economic history. I am a Postdoctoral Associate at Yale University. I received my PhD from the University of British Columbia in 2025. \n \n \n \n You can reach me at pablo.valenzuela-casasempere@yale.edu."
-          imageUrl: "img/pablo_outdoors.jpg"
+          subtitle: "Welcome! I am an economist studying the impact of government policies on people, neighborhoods, and cities. My research focuses on urban economics and economic history, mostly during the early 20th century. I graduated from the University of British Columbia in 2025 and I am currently a Postdoctoral Associate at Yale University. \n \n  You can reach me at pablo.valenzuela-casasempere@yale.edu."
+          imageUrl: "img/pablo_jm.jpg"
           imageWidth: 320
           imageHeight: 320
           buttons:
