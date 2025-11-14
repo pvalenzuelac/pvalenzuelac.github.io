@@ -21,19 +21,24 @@ layout: simple
 
 You can find more about my projects in my [CV](../cv/cv_latest.pdf).
 
+
 ---
-## Job Market Paper
+## Working papers
 - **Infrastructure Provision and Displacement: Evidence from the Interstate Highway System**
   <br/><span style="
-              color: rgb(0,114,178); 
-              font-weight: bold;
+              #color: rgb(0,114,178); 
+              #font-weight: bold;
+              font-style: italic;
+              font-size: 0.9em;
               "
               >
               Best Student Paper Prize 2024, Urban Economics Association.
           </span>
   <br/><span style="
-              color: rgb(0,114,178); 
-              font-weight: bold;
+              #color: rgb(0,114,178); 
+              #font-weight: bold;
+              font-style: italic;
+              font-size: 0.9em;
               "
             >
               Frank Lewis Memorial Prize for Best Student Paper 2025, CNEH.
@@ -132,10 +137,6 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
 </div>
 
 
-  
-
----
-## Working papers
 - **Neighborhood Evolution and Infrastructure Provision**
   <br/><span style="
               color: black;
@@ -313,6 +314,20 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
 
 ---
 ## Work in progress
+<div class="work-in-progress">
+<style>
+.work-in-progress > ul > li,
+.work-in-progress > li { margin-bottom: 1em; }
+</style>
+
+- **Employment Relief and Cities: Evidence from the Works Progress Administration**
+  <br /> with [Kaan Cankat](https://irs.princeton.edu/people/kaan-cankat-0) and [Allison Green](https://www.allie-green.com).
+  <br /> 
+
+- **The Works Progress Administration and Racial Inequality**
+  <br /> with [Kaan Cankat](https://irs.princeton.edu/people/kaan-cankat-0) and [Allison Green](https://www.allie-green.com).
+  <br /> 
+
 - **Immigrant Neighborhood Formation: Evidence from Canadian Cities**
   <br /> with [Pierre-Loup Beauregard](https://www.pierreloupbeauregard.org) and [Vedran Razmilic](https://economics.ubc.ca/profile/vedran-juraj-razmilic/).
   <br /> 
