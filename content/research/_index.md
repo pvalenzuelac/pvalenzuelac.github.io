@@ -328,6 +328,11 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
   <br /> with [Kaan Cankat](https://irs.princeton.edu/people/kaan-cankat-0) and [Allison Green](https://www.allie-green.com).
   <br /> 
 
+- **In-Situ versus Relocation: The Welfare Consequences of Slum Clearances on Urban Development**
+  <br /> with [Fernanda Rojas-Ampuero](https://www.fernandarojasam.com/home).
+  <br /> 
+
+
 - **Immigrant Neighborhood Formation: Evidence from Canadian Cities**
   <br /> with [Pierre-Loup Beauregard](https://www.pierreloupbeauregard.org) and [Vedran Razmilic](https://economics.ubc.ca/profile/vedran-juraj-razmilic/).
   <br /> 
