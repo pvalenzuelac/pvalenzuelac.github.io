@@ -48,7 +48,7 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
               margin-top: -20px;
               "
               >
-              Last version: February 2025. 
+              Last version: March 2026. 
           </span>            
 <div style="
   display: flex;
@@ -60,7 +60,7 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
   margin-left: 2.5em;"
   >
 
-  <a href="../research/displacement_jmp.pdf" style="
+  <a href="../research/displacement_ihs.pdf" style="
     all: unset;
     color: black;
     text-decoration: underline;
@@ -111,8 +111,13 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
 
 
 <!-- Abstract block -->
-<div id="abstract" style="display:none; margin-top:10px; border:0px solid #ccc; padding:10px;">
-  I study the long-run effects of displacement and neighborhood division by examining individuals affected by the construction of the Interstate Highway System. To do so, I track individuals over time by linking the 1940 census to administrative mortality records from 1995 to 2005. I find that displaced individuals die three months younger, are more likely to leave their neighborhoods, and reside in areas with lower socioeconomic characteristics at the time of death. I also find highly localized spillovers: individuals living within 100 meters of a highway are more likely to leave their neighborhoods and relocate to lower socioeconomic areas, yet they do not experience increased mortality. The neighborhoods where individuals relocate after displacement explain 30% of the displacement-mortality effect. Accounting for the mortality effects of displacement would have increased the cost of building the highway system by 10%. Together, these results enhance our understanding of the costs displacement imposes on individuals and their communities and provide new insights for the design of future infrastructure projects.
+<div id="abstract" style="display:none; margin-top:0px; border:0px solid #ccc; padding:10px;">
+  This paper studies the long-run effects of displacement caused by the largest public works project in U.S. history, the Interstate Highway System.
+  I develop a method to identify individuals living in destroyed homes in the 1950 census and link them to administrative mortality records.
+  I document that highway construction disproportionately affected vulnerable communities.
+  Comparing affected individuals to their unaffected neighbors, I find that displacement reduces longevity and causes relocation to worse neighborhoods.
+  These effects spill over to residents living next to the highway.
+  Relocation assistance payments, adopted by states over time, fully offset the mortality effects for displaced individuals.
 </div>
 
 <!-- BibTeX block -->
@@ -131,7 +136,7 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
 @misc{valenzuela-casasempere2025displacement,
   title  = {Displacement and Infrastructure Provision: Evidence from the Interstate Highway System},  
   author = {Pablo Valenzuela-Casasempere},
-  year   = {2025}
+  year   = {2026}
 }
   </pre>
 </div>
