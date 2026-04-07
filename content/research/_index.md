@@ -41,6 +41,15 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
               font-size: 0.9em;
               "
             >
+              Dissertation Award 2025, Transportation and Public Utilities Group.
+            </span>
+  <br/><span style="
+              #color: rgb(0,114,178); 
+              #font-weight: bold;
+              font-style: italic;
+              font-size: 0.9em;
+              "
+            >
               Frank Lewis Memorial Prize for Best Student Paper 2025, CNEH.
             </span>
   <br/><span style="
