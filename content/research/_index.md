@@ -48,7 +48,7 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
               margin-top: -20px;
               "
               >
-              Last version: March 2026. 
+              Last version: September 2026.
           </span>            
 <div style="
   display: flex;
@@ -112,12 +112,11 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
 
 <!-- Abstract block -->
 <div id="abstract" style="display:none; margin-top:0px; border:0px solid #ccc; padding:10px;">
-  This paper studies the long-run effects of displacement caused by the largest public works project in U.S. history, the Interstate Highway System.
-  I develop a method to identify individuals living in destroyed homes in the 1950 census and link them to administrative mortality records.
-  I document that highway construction disproportionately affected vulnerable communities.
-  Comparing affected individuals to their unaffected neighbors, I find that displacement reduces longevity and causes relocation to worse neighborhoods.
-  These effects spill over to residents living next to the highway.
-  Relocation assistance payments, adopted by states over time, fully offset the mortality effects for displaced individuals.
+  This paper studies the long-run effects of the Interstate Highway System on displaced individuals and their neighbors.
+  I identify individuals in the 1950 census living in homes later destroyed by construction and those living near the constructed highway, and link them to administrative mortality records.
+  Displaced individuals die younger and move to worse neighborhoods within the city, relative to comparable neighbors living farther from the highway (100 to 200 meters away).
+  Longevity also declines among those living adjacent to the highway (within 100 meters).
+  The cost of relocation and the erosion of housing wealth seem to explain these results.
 </div>
 
 <!-- BibTeX block -->
@@ -328,14 +327,57 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
 - **Employment Relief and Cities: Evidence from the Works Progress Administration**
   <br /> with [Kaan Cankat](https://irs.princeton.edu/people/kaan-cankat-0) and [Allison Green](https://www.allie-green.com).
   <br /> 
+  
+  <!-- This is the abstract I submitted to UBC. Sept 19.
+  <button onclick="toggle_visibility('abstract6')" style="
+    all: unset;
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: #6a7ba2;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+    cursor: pointer;">
+    [Show/Hide Abstract]
+  </button>
+  <div id="abstract6" style="display:none; margin-top:10px; border:0px solid #ccc; padding:10px;">
+      We study the long-run consequences of public works projects, in which the government directly employs workers, on the receiving economies. 
+      Using newly constructed data for the Works Progress Administration, the largest New Deal program, which employed more than 9 million workers between 1935 and 1943, we measure how WPA funds shaped employment and the industrial mix of  local economies.
+      To separate spending from Depression severity, we study contiguous counties located between WPA districts, the program's lowest-level administrative units responsible for submitting and administering projects, with varying  discretionary spending.
+      Higher spending raised WPA employment without crowding out private employment.
+      We also find no evidence that WPA employment increased private wages.
+      We find evidence that the WPA helped transition from agriculture to the retail and service sectors.
+  </div>
+  -->
 
+<!--
 - **The Works Progress Administration and Racial Inequality**
   <br /> with [Kaan Cankat](https://irs.princeton.edu/people/kaan-cankat-0) and [Allison Green](https://www.allie-green.com).
   <br /> 
-
+-->
 - **In-Situ versus Relocation: The Welfare Consequences of Slum Clearances on Urban Development**
   <br /> with [Fernanda Rojas-Ampuero](https://www.fernandarojasam.com/home).
   <br /> 
+
+  <!-- This is the abstract I submitted to UBC. Sept 19.
+  <button onclick="toggle_visibility('abstract7')" style="
+    all: unset;
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: #6a7ba2;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+    cursor: pointer;">
+    [Show/Hide Abstract]
+  </button>
+  <div id="abstract7" style="display:none; margin-top:10px; border:0px solid #ccc; padding:10px;">
+      How do relocation and in-situ upgrading of slums affect urban development, segregation, and welfare? 
+      We study Santiago's Program for Urban Marginality (1979–1984), which affected more than 50,000 slum households, 5% of the city, either relocating them to peripheral public housing or redeveloping their settlements on site. 
+      We build a harmonized census-tract panel from full-count censuses (1982–2002), digitized slum censuses, public housing records, and historical home prices. 
+      We develop a quantitative spatial model that includes formal, informal, and public housing, and endogenous amenities that generate Schelling-type sorting. 
+      Preliminary findings suggest population decline in neighborhoods where a slum is upgraded, regardless of whether the intervention was an in-situ upgrade or a relocation to the city's fringe.
+  </div>
+  -->
+
 
 
 - **Immigrant Neighborhood Formation: Evidence from Canadian Cities**
@@ -344,6 +386,48 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
   <!--
    We analyze the formation of immigrant enclaves in Canada. We develop a quantitative model of internal city structure in which forward-looking individuals choose where to live and work at every period. We allow for heterogeneous preferences over endogenous amenities depending on immigration status. We exploit Canadian administrative tax files and estimate group-specific neighborhood valuation using a revealed preference approach. By exploiting the neighborhood-to-neighborhood transition of households in Canada, we document that the correlation of neighborhood valuations between foreign- and Canadian-born households is positive but far from unity. We then analyze counterfactual scenarios where households have the same preferences regardless of nationality and study the implications for income and urban segregation.
   -->
+<div style="
+  display: flex;
+  gap: 0.5em;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin-top: -15px;
+  margin-left: 2.5em;"
+  >
+
+  <a href="../research/Immigrant_Enclaves_CEA.pdf" style="
+    all: unset;
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: #6a7ba2;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+    cursor: pointer;">
+    [Slides]
+  </a>
+  <span>·</span>
+  <button onclick="toggle_visibility('abstract8')" style="
+    all: unset;
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: #6a7ba2;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+    cursor: pointer;">
+    [Show/Hide Abstract]
+  </button>
+</div>
+
+
+<!-- Abstract block -->
+<div id="abstract8" style="display:none; margin-top:10px; border:0px solid #ccc; padding:10px;">
+    We analyze the formation of immigrant enclaves in Canada. We develop a quantitative model of internal city structure in which forward-looking individuals choose where to live and work at every period.
+    We allow for heterogeneous preferences over endogenous amenities depending on immigration status.
+    We exploit Canadian administrative tax files and estimate group-specific neighborhood valuation using a revealed preference approach.
+    By exploiting the neighborhood-to-neighborhood transition of households in Canada, we document that the correlation of neighborhood valuations between foreign- and Canadian-born households is positive but far from unity.
+    We then analyze counterfactual scenarios where households have the same preferences regardless of nationality and study the implications for income and urban segregation.
+</div>
 
 
 - **Human Capital Spillovers Across Cities** 
