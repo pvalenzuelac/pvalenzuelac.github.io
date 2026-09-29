@@ -1,0 +1,5 @@
+/* Justify the home-page profile subtitle; the rest of the profile stays centered. */
+.profile_inner > span {
+    text-align: justify;
+    hyphens: auto;
+}

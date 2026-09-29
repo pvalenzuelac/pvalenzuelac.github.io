@@ -51,7 +51,7 @@ params:
     profileMode:
           enabled: true
           title: Pablo Valenzuela-Casasempere
-          subtitle: "Welcome! I am an economist studying the impact of government policies on people, neighborhoods, and cities. My research focuses on urban economics and economic history, mostly during the early 20th century. I graduated from the University of British Columbia in 2025 and I am currently a Postdoctoral Associate at Yale University. \n \n  You can reach me at pablo.valenzuela-casasempere@yale.edu."
+          subtitle: "Welcome! I am an economist studying the impact of government policies on people, neighborhoods, and cities. My research focuses on urban economics and economic history, mostly during the early 20th century. I graduated from the University of British Columbia in 2025 and I am currently a Postdoctoral Associate at Yale University. You can reach me at pablo.valenzuela-casasempere@yale.edu. <br><br> **I am on the 2026-2027 job market.**"
           imageUrl: "img/pablo_jm.jpg"
           imageWidth: 320
           imageHeight: 320
@@ -75,10 +75,6 @@ params:
           url: https://github.com/pvalenzuelac
         - name: LinkedIn
           url: https://linkedin.com/in/pablo-valenzuela-casasempere
-        - name: Twitter
-          url: https://x.com/pvalenzuelac
-        - name: Bluesky
-          url: https://bsky.app/profile/pvalenzuelac.bsky.social
 
     assets:
         disableScrollBarStyle: true
