@@ -55,3 +55,40 @@ The user deleted both accounts. I removed the `Twitter` (x.com) and `Bluesky` en
 `params.socialIcons` in `config.yml`; these were the only references to the accounts outside the
 theme. The icon definitions in `layouts/partials/svg.html` and the `twitter_cards` meta partial
 remain; they are generic and link to no account. A test build contains no x.com or bsky.app links.
+
+## Update: displacement paper PDF
+
+The user pasted the September 13, 2026 draft at `static/research/displacement_ihs.pdf`, the path
+that `content/research/_index.md:72` links to. I confirmed the title page reads "September 13,
+2026" and that `public/research/displacement_ihs.pdf` is already identical (same MD5). The old
+`displacement_ihs_march2026.pdf` is still in `static/` and `public/`, but nothing links to it.
+
+## Finding: missing research-page edits are in a second, unpushed clone
+
+The user said their commented-out abstracts were missing. They are not lost:
+- There are two clones on this machine: the Dropbox one (this repo) and `~/Documents/website-pablo`.
+- `~/Documents/website-pablo` has two commits from 2026-09-19 (`f79fcdb` "updates website.", merge
+  `4700f52`) that were never pushed (`ahead 2`). They contain the research-page edits (commented
+  abstracts, "abstract I submitted to UBC. Sept 19"), the new CV, `Immigrant_Enclaves_CEA.pdf`,
+  and the Sept displacement PDF.
+- GitHub `main` is at `849b0f7` (committed today from the Dropbox clone). It branches from the
+  same parent `4cbf332`, so the two histories diverged.
+- The only files both sides changed are generated ones under `public/`, which can be rebuilt.
+  No source-file conflicts are expected.
+- Nothing merged or pushed yet; waiting for the user to decide.
+
+## Merge of the two copies (user instruction)
+
+The user asked to merge both copies into this Dropbox folder, keep the `~/Documents/website-pablo`
+files except `config.yml` and the justify CSS, and delete the Documents copy.
+- The Documents copy had no uncommitted work and its local `gh-pages` branch is already contained
+  in `main`.
+- Fetched its `main` (`4700f52`) and merged it. Only the generated `public/cv/cv_latest.pdf` and
+  `public/research/index.html` conflicted; I took the Documents version, then rebuilt `public/`
+  with `hugo`.
+- After the merge, the source matches the Documents copy except `config.yml`,
+  `assets/css/extended/`, and `claude-files/`. Two PaperMod i18n files differ only in line endings.
+- Checked: the subtitle keeps the `<br><br>` and bold sentence, the Twitter/Bluesky links are gone,
+  the justify rule is in the bundled CSS, and the research page has the Sept 19 comments, the award
+  lines, "Last version: September 2026", and the `Immigrant_Enclaves_CEA.pdf` link.
+- The stray `public/research/draft_ihs.pdf` is left untracked (no source file exists for it).
