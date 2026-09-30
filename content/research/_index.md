@@ -24,7 +24,7 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
 
 ---
 ## Working papers
-- **Infrastructure Provision and Displacement: Evidence from the Interstate Highway System**
+- **Displacement and Infrastructure Provision: Evidence from the Interstate Highway System**
   <br/><span style="
               #color: rgb(0,114,178); 
               #font-weight: bold;
@@ -431,14 +431,22 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
 
 <!-- Abstract block -->
 <div id="abstract8" style="display:none; margin-top:10px; border:0px solid #ccc; padding:10px;">
-    We analyze the formation of immigrant enclaves in Canada. We develop a quantitative model of internal city structure in which forward-looking individuals choose where to live and work at every period.
-    We allow for heterogeneous preferences over endogenous amenities depending on immigration status.
-    We exploit Canadian administrative tax files and estimate group-specific neighborhood valuation using a revealed preference approach.
-    By exploiting the neighborhood-to-neighborhood transition of households in Canada, we document that the correlation of neighborhood valuations between foreign- and Canadian-born households is positive but far from unity.
-    We then analyze counterfactual scenarios where households have the same preferences regardless of nationality and study the implications for income and urban segregation.
+    We analyze the formation of immigrant enclaves in Canada.
+    We develop a quantitative model of internal city structure in which, in every period, heterogeneous forward-looking individuals choose where to live based on home prices and endogenous amenities.
+    We allow preferences over endogenous amenities to depend on immigration status.
+    We estimate the model by microfounding, within canonical quantitative spatial models, a revealed-preference approach that follows recent developments in labor economics for estimating non-pay amenities (Sorkin, 2018).
+    To estimate the model, we use Canadian administrative tax files from 1991 to 2021.
+    We document that the correlation of neighborhood valuations between foreign- and Canadian-born households is positive but far from unity.
+    Neighborhood valuations are closer for groups that share a cultural background (Western European/U.S.) and belong to the same income group (high vs. low).
+    Differences in valuations create spatial segregation in the city, but they also lower home prices by reducing housing competition.
 </div>
 
 
+<!--
+    By exploiting the neighborhood-to-neighborhood transition of households in Canada, 
+    We then analyze counterfactual scenarios where households have the same preferences regardless of nationality and study the implications for income and urban segregation.
+
+-->
 - **Human Capital Spillovers Across Cities** 
   <br/> with [Giulia Lo Forte](https://loforteg.github.io). 
 <div style="

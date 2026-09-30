@@ -3,3 +3,16 @@
     text-align: justify;
     hyphens: auto;
 }
+
+/* Justify the research-page abstracts (<div id="abstract...">) and leave one blank line after. */
+[id^="abstract"] {
+    text-align: justify;
+    hyphens: auto;
+    margin-bottom: 1.6em;
+}
+
+/* Widen only the research page (the page holding the abstracts) so the longest paper title,
+   about 834px in bold 18px, fits on one line. The theme default is 720px. */
+.main:has(#abstract) {
+    --main-width: 880px;
+}
