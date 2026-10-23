@@ -392,9 +392,6 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
 - **Immigrant Neighborhood Formation: Evidence from Canadian Cities**
   <br /> with [Pierre-Loup Beauregard](https://www.pierreloupbeauregard.org) and [Vedran Razmilic](https://economics.ubc.ca/profile/vedran-juraj-razmilic/).
   <br /> 
-  <!--
-   We analyze the formation of immigrant enclaves in Canada. We develop a quantitative model of internal city structure in which forward-looking individuals choose where to live and work at every period. We allow for heterogeneous preferences over endogenous amenities depending on immigration status. We exploit Canadian administrative tax files and estimate group-specific neighborhood valuation using a revealed preference approach. By exploiting the neighborhood-to-neighborhood transition of households in Canada, we document that the correlation of neighborhood valuations between foreign- and Canadian-born households is positive but far from unity. We then analyze counterfactual scenarios where households have the same preferences regardless of nationality and study the implications for income and urban segregation.
-  -->
 <div style="
   display: flex;
   gap: 0.5em;
@@ -402,9 +399,9 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
   flex-wrap: wrap;
   flex-direction: row;
   margin-top: -15px;
+  margin-bottom: 1em;
   margin-left: 2.5em;"
   >
-
   <a href="../research/Immigrant_Enclaves_CEA.pdf" style="
     all: unset;
     color: black;
@@ -427,6 +424,7 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
     [Show/Hide Abstract]
   </button>
 </div>
+
 
 
 <!-- Abstract block -->
@@ -456,6 +454,7 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
   flex-wrap: wrap;
   flex-direction: row;
   margin-top: -15px;
+  margin-bottom: 1em;
   margin-left: 2.5em;"
   >
 
