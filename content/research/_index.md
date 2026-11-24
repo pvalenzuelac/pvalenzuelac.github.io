@@ -152,14 +152,20 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
 
 - **Immigrant Neighborhood Formation: Evidence from Canadian Cities**
   <br /> with [Pierre-Loup Beauregard](https://www.pierreloupbeauregard.org) and [Vedran Razmilic](https://vedranrazmilic.github.io).
-  <br /> 
+  <br/><span style="
+            color: black;
+            margin-top: -20px;
+            "
+            >
+            Last version: November 2026. 
+        </span>   
 <div style="
   display: flex;
   gap: 0.5em;
   align-items: center;
   flex-wrap: wrap;
   flex-direction: row;
-  margin-top: -15px;
+  margin-top: -20px;
   margin-bottom: 1em;
   margin-left: 2.5em;"
   >
@@ -220,7 +226,7 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
     white-space: pre;
   ">
 @misc{BRVC2026,
-  title  = {Immigrant Neighborhood Fomation: Evidence from Canadian Cities},  
+  title  = {Immigrant Neighborhood Formation: Evidence from Canadian Cities},  
   author = {Pierre-Loup Beauregard and Vedran Razmilic and Pablo Valenzuela-Casasempere},
   year   = {2026}
 }
