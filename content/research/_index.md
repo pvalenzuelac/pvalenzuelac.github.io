@@ -150,6 +150,102 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
 </div>
 
 
+- **Immigrant Neighborhood Formation: Evidence from Canadian Cities**
+  <br /> with [Pierre-Loup Beauregard](https://www.pierreloupbeauregard.org) and [Vedran Razmilic](https://vedranrazmilic.github.io).
+  <br /> 
+<div style="
+  display: flex;
+  gap: 0.5em;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin-top: -15px;
+  margin-bottom: 1em;
+  margin-left: 2.5em;"
+  >
+  <a href="../research/immigrant_enclaves_20261124.pdf" style="
+    all: unset;
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: #6a7ba2;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+    cursor: pointer;">
+    [Draft]
+  </a>
+  <span>·</span>
+  <a href="../research/Immigrant_Enclaves_CEA.pdf" style="
+    all: unset;
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: #6a7ba2;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+    cursor: pointer;">
+    [Slides]
+  </a>
+  <span>·</span>
+  <button onclick="toggle_visibility('abstract8')" style="
+    all: unset;
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: #6a7ba2;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+    cursor: pointer;">
+    [Show/Hide Abstract]
+  </button>  <span>·</span>
+  <button onclick="toggle_visibility('bib4')" style="
+    all: unset;
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: #6a7ba2;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+    cursor: pointer;">
+    [Bibtex]
+  </button>
+</div>
+
+
+<div id="bib4" style="display: none; margin-top: 10px;">
+  <pre style="
+    background-color: #f5f5f5;
+    padding: 10px;
+    font-family: monospace;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    overflow-x: auto;
+    white-space: pre;
+  ">
+@misc{BRVC2026,
+  title  = {Immigrant Neighborhood Fomation: Evidence from Canadian Cities},  
+  author = {Pierre-Loup Beauregard and Vedran Razmilic and Pablo Valenzuela-Casasempere},
+  year   = {2026}
+}
+  </pre>
+</div>
+
+
+
+<!-- Abstract block -->
+<div id="abstract8" style="display:none; margin-top:10px; border:0px solid #ccc; padding:10px;">
+    Why do immigrant neighborhoods exist?
+    We study how immigrant enclaves form in Montréal, Toronto, and Vancouver, using administrative data that follow where immigrants and native-born residents live every year.
+    We first document that enclaves have changed substantially over the last thirty years: most of today’s enclaves were not enclaves in 1991, and new enclaves have formed farther from city centers.
+    To measure how different population segments value each neighborhood without restricting the dimensionality of local amenities, we adapt the PageRank algorithm to neighborhood-to-neighborhood moves.
+    We microfound this approach in a dynamic model of neighborhood choice with forward-looking households, which gives the estimated valuations a clear indirect-utility interpretation.
+    We show that those estimated indirect utility line up with neighborhood price premia from home sales and with access to local amenities.
+    Immigrant and native-born valuations are positively but far from perfectly correlated.
+    Using an instrumental variable approach, we estimate how each group responds to its neighbors.
+    We find that every immigrant group values living near people from its own origin more than living near native-born residents, but the strength of this pull varies a lot across groups.
+</div>
+
+
+
+
+
 - **Neighborhood Evolution and Infrastructure Provision**
   <br/><span style="
               color: black;
@@ -333,7 +429,7 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
 .work-in-progress > li { margin-bottom: 1em; }
 </style>
 
-- **Employment Relief and Cities: Evidence from the Works Progress Administration**
+- **Making Public Works Work: Evidence from the Works Progress Administration**
   <br /> with [Kaan Cankat](https://irs.princeton.edu/people/kaan-cankat-0) and [Allison Green](https://www.allie-green.com).
   <br /> 
   
@@ -388,56 +484,6 @@ You can find more about my projects in my [CV](../cv/cv_latest.pdf).
   -->
 
 
-
-- **Immigrant Neighborhood Formation: Evidence from Canadian Cities**
-  <br /> with [Pierre-Loup Beauregard](https://www.pierreloupbeauregard.org) and [Vedran Razmilic](https://economics.ubc.ca/profile/vedran-juraj-razmilic/).
-  <br /> 
-<div style="
-  display: flex;
-  gap: 0.5em;
-  align-items: center;
-  flex-wrap: wrap;
-  flex-direction: row;
-  margin-top: -15px;
-  margin-bottom: 1em;
-  margin-left: 2.5em;"
-  >
-  <a href="../research/Immigrant_Enclaves_CEA.pdf" style="
-    all: unset;
-    color: black;
-    text-decoration: underline;
-    text-decoration-color: #6a7ba2;
-    text-decoration-thickness: 2px;
-    text-underline-offset: 4px;
-    cursor: pointer;">
-    [Slides]
-  </a>
-  <span>·</span>
-  <button onclick="toggle_visibility('abstract8')" style="
-    all: unset;
-    color: black;
-    text-decoration: underline;
-    text-decoration-color: #6a7ba2;
-    text-decoration-thickness: 2px;
-    text-underline-offset: 4px;
-    cursor: pointer;">
-    [Show/Hide Abstract]
-  </button>
-</div>
-
-
-
-<!-- Abstract block -->
-<div id="abstract8" style="display:none; margin-top:10px; border:0px solid #ccc; padding:10px;">
-    We analyze the formation of immigrant enclaves in Canada.
-    We develop a quantitative model of internal city structure in which, in every period, heterogeneous forward-looking individuals choose where to live based on home prices and endogenous amenities.
-    We allow preferences over endogenous amenities to depend on immigration status.
-    We estimate the model by microfounding, within canonical quantitative spatial models, a revealed-preference approach that follows recent developments in labor economics for estimating non-pay amenities (Sorkin, 2018).
-    To estimate the model, we use Canadian administrative tax files from 1991 to 2021.
-    We document that the correlation of neighborhood valuations between foreign- and Canadian-born households is positive but far from unity.
-    Neighborhood valuations are closer for groups that share a cultural background (Western European/U.S.) and belong to the same income group (high vs. low).
-    Differences in valuations create spatial segregation in the city, but they also lower home prices by reducing housing competition.
-</div>
 
 
 <!--
